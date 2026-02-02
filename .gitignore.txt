@@ -1,0 +1,12 @@
+# Ignore executables
+*.exe
+*.dll
+*.o
+*.obj
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore VSCode settings
+.vscode/
