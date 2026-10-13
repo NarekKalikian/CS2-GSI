@@ -48,13 +48,3 @@ The system uses a **Producer-Consumer / Client-Server** pattern designed for low
 - **Networking:** `socket`, `threading`
 
 ---
-
-## Project Structure
-
-```text
-.
-├── main.cpp                 # C++ Server listener, GSI logic, thread manager & UDP sender
-├── cs2_timer_gui.py         # Python transparent overlay GUI & UDP socket receiver
-├── gamestate_integration_timer.cfg # CS2 GSI configuration file
-├── httplib.h                # C++ HTTP library header
-└── json.hpp                 # C++ JSON library header
