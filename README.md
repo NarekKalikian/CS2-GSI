@@ -1,4 +1,4 @@
-# CS2 Real-Time Bomb Timer & Overlay
+# Counter-Strike 2 Real-Time Bomb Timer & Overlay
 
 A lightweight, high-performance Game State Integration (GSI) system for Counter-Strike 2. This project decouples game-state processing from presentation by pairing a **C++ backend server** with a **Python transparent GUI overlay** using UDP Inter-Process Communication (IPC).
 
